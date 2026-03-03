@@ -10,12 +10,6 @@
 
 I build scalable backend systems, multi-tenant SaaS platforms, and AI-powered applications.
 
-Currently working as **SDE Intern at UV Netware**, focusing on:
-- Backend development
-- Microservices architecture
-- Spring Boot
-- Production-level system design
-
 Strong foundation in:
 - Data Structures & Algorithms
 - System Design (LLD + HLD)
