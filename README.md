@@ -1,6 +1,6 @@
 # Hi, I'm Ankush Aggarwal 👋
 
-🎓 Final Year B.Tech CSE @ VIT Vellore (CGPA: 8.88)  
+🎓 Final Year B.Tech CSE @ VIT Vellore   
 💻 Software Development Engineer | Backend-Focused | AI Systems  
 📍 New Delhi, India  
 
