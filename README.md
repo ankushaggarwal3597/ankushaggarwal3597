@@ -86,10 +86,11 @@ Tech: PyTorch, Transformers, OCR
 - Backend-driven KPI monitoring system
 
 ---
+## 📊 GitHub Stats
 
-## 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ankushaggarwal3597&show_icons=true&theme=default" />
 
-![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankushaggarwal3597&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushaggarwal3597&layout=compact&theme=default" />![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankushaggarwal3597&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushaggarwal3597&layout=compact&theme=radical)
 
