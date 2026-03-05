@@ -1,7 +1,7 @@
 # Hi, I'm Ankush Aggarwal 👋
 
 💻 Software Development Engineer | Backend Systems | AI Applications  
-🎓 B.Tech Computer Science @ VIT Vellore (CGPA: 8.88)  
+🎓 B.Tech Computer Science @ VIT Vellore  
 📍 New Delhi, India  
 
 I build **scalable backend systems, multi-tenant SaaS platforms, and AI-powered applications** with strong foundations in **data structures, system design, and distributed system principles.**
