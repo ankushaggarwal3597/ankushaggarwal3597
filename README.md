@@ -1,116 +1,149 @@
 # Hi, I'm Ankush Aggarwal 👋
 
-🎓 Final Year B.Tech CSE @ VIT Vellore   
-💻 Software Development Engineer | Backend-Focused | AI Systems  
+💻 Software Development Engineer | Backend Systems | AI Applications  
+🎓 B.Tech Computer Science @ VIT Vellore (CGPA: 8.88)  
 📍 New Delhi, India  
 
----
-
-## 🚀 About Me
-
-I build scalable backend systems, multi-tenant SaaS platforms, and AI-powered applications.
-
-Strong foundation in:
-- Data Structures & Algorithms
-- System Design (LLD + HLD)
-- Distributed Systems Basics
-- Clean architecture & production practices
+I build **scalable backend systems, multi-tenant SaaS platforms, and AI-powered applications** with strong foundations in **data structures, system design, and distributed system principles.**
 
 ---
 
-## 🧠 Technical Skills
+# 🚀 What I Do
 
-### 👨‍💻 Languages
+• Design **production-grade backend systems**  
+• Build **multi-tenant SaaS architectures**  
+• Develop **AI-powered applications & automation systems**  
+• Implement **REST APIs, microservices, and cloud deployments**
+
+Strong focus on:
+
+- Scalable backend engineering
+- Clean architecture & maintainable systems
+- AI + software engineering integration
+
+---
+
+# 🧠 Technical Skills
+
+## 👨‍💻 Languages
 Java • Python • C++ • Go • JavaScript • SQL
 
-### ⚙️ Backend
+## ⚙️ Backend & APIs
 Node.js • Express.js • FastAPI • Spring Boot • Django  
-REST APIs • JWT • OAuth 2.0 • WebSockets  
+REST APIs • OAuth 2.0 • JWT • WebSockets  
 Microservices Architecture
 
-### 🗄️ Databases
+## 🗄️ Databases
 MySQL • PostgreSQL • MongoDB  
-Sequelize • SQLAlchemy  
+Sequelize • SQLAlchemy
 
-### 🖥️ Frontend
+## 🖥️ Frontend / Mobile
 React.js • HTML5 • CSS3 • JavaScript (ES6+)  
-Flutter (Mobile)
+Flutter • Dart
 
-### 🤖 AI / ML / GenAI
-PyTorch • TensorFlow • Transformers  
-LangChain • RAG • Vector Databases  
-Groq / OpenAI APIs  
-ResNet • DistilBERT • OCR
+## 🤖 AI / Machine Learning
+PyTorch • TensorFlow • Scikit-learn  
+Transformers • LangChain • RAG  
+Vector Databases (FAISS, ChromaDB)
 
-### ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
 AWS (EC2, S3, IAM)  
 Docker • Kubernetes  
-Git • Linux  
+Git • Linux
 
 ---
 
-## 🏗️ Featured Projects
+# 🏗️ Featured Projects
 
-### 🔹 Xeno — Multi-Tenant Shopify Analytics SaaS
-- Built full-stack SaaS with Shopify OAuth integration
-- Implemented JWT auth, webhook listeners, cron jobs
-- Designed multi-tenant data isolation architecture
-- React analytics dashboard with real-time insights
+## 🔹 Xeno — Multi-Tenant Shopify Analytics SaaS
 
-Tech: Node.js, React, MySQL, OAuth 2.0
+Designed and built a **multi-tenant SaaS analytics platform** integrating Shopify stores.
 
----
+**Key Features**
 
-### 🔹 AI Code Review Assistant
-- AI-powered automated code analysis platform
-- Groq LLM integration with structured scoring system
-- FastAPI backend + SQLAlchemy persistence
-- PDF export + historical trend analysis
+- Shopify OAuth authentication
+- JWT-based authentication system
+- Tenant-level data isolation architecture
+- Webhook listeners for real-time store sync
+- React analytics dashboard
 
-Tech: FastAPI, React, LLM APIs
+**Tech Stack**
+
+Node.js • React • MySQL • OAuth 2.0 • REST APIs
 
 ---
 
-### 🔹 Multimodal Document Forgery Detection
-- Deep learning system combining ResNet18 + DistilBERT
-- Adaptive trust weighting across image + text modalities
-- Custom loss for cross-modal consistency
+## 🔹 AI Code Review Assistant
 
-Tech: PyTorch, Transformers, OCR
+AI-powered **automated code analysis platform** that evaluates software quality.
 
----
+**Key Features**
 
-### 🔹 Factory IQ Dashboard
-- Industrial analytics dashboard
-- Data visualization for operational metrics
-- Backend-driven KPI monitoring system
+- LLM-based code review
+- Multi-dimensional scoring system
+- Historical analysis dashboard
+- PDF report generation
 
----
-## 📊 GitHub Stats
+**Tech Stack**
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankushaggarwal3597&show_icons=true&theme=default" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushaggarwal3597&layout=compact&theme=default" />![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankushaggarwal3597&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushaggarwal3597&layout=compact&theme=radical)
+FastAPI • React • Groq LLM • SQLAlchemy
 
 ---
 
-## 🧩 What I’m Currently Learning
+## 🔹 Multimodal Document Forgery Detection
 
-- Advanced Microservices Architecture
-- Spring Boot for production systems
-- Scalable backend design patterns
-- System Design for high-scale applications
+Deep learning system for **detecting document forgeries using multimodal learning**.
+
+**Key Features**
+
+- Image + text modality fusion
+- Adaptive trust weighting
+- Cross-modal consistency validation
+
+**Tech Stack**
+
+PyTorch • ResNet18 • DistilBERT • EasyOCR
 
 ---
 
-## 🤝 Let’s Connect
+## 🔹 FactoryIQ Dashboard
+
+Industrial analytics system for monitoring operational metrics.
+
+**Key Features**
+
+- Real-time KPI monitoring
+- Event-based backend processing
+- Analytics dashboards for production insights
+
+**Tech Stack**
+
+FastAPI • PostgreSQL • Docker
+
+---
+
+# 📚 Currently Learning
+
+• Advanced Microservices Architecture  
+• Spring Boot for enterprise systems  
+• Distributed system design  
+• High-scale backend architectures
+
+---
+
+# 📫 Connect With Me
 
 📧 ankushaggarwal3597@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ankush-aggarwal-967863248/
-💻 LeetCode: https://leetcode.com/u/ankushaggarwal3597/ 
+
+💼 LinkedIn  
+https://linkedin.com/in/ankush-aggarwal-967863248  
+
+💻 GitHub  
+https://github.com/ankushaggarwal3597  
+
+🧩 LeetCode  
+https://leetcode.com/u/ankushaggarwal3597/
 
 ---
 
-⭐ Always open to Backend / SDE / AI Engineering roles.
+⭐ Always open to **Software Engineering, Backend, and AI Engineering opportunities.**
